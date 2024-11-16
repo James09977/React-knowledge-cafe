@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/FqpYyJs/notebooks-569121-1280.jpg",
+    "title": "Exploring the Cosmos",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co.com/kKXpHwb/49456.jpg",
+    "posted_date": "2024-11-01",
+    "reading_time": 15,
+    "hashtags": ["#space", "#science", "#exploration"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/886WPSG/blogging-7308532-1280.png",
+    "title": "The Art of Minimalism",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co.com/kKXpHwb/49456.jpg",
+    "posted_date": "2024-11-05",
+    "reading_time": 10,
+    "hashtags": ["#minimalism", "#design", "#lifestyle"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/m9LNZp4/man-791049-1280.jpg",
+    "title": "Coding for Beginners",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/kKXpHwb/49456.jpg",
+    "posted_date": "2024-10-28",
+    "reading_time": 20,
+    "hashtags": ["#coding", "#programming", "#tech"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/Tmcx9mG/wordpress-552924-1280.jpg",
+    "title": "Sustainable Living",
+    "author": "Emma Brown",
+    "author_img": "https://i.ibb.co.com/kKXpHwb/49456.jpg",
+    "posted_date": "2024-11-10",
+    "reading_time": 12,
+    "hashtags": ["#sustainability", "#eco", "#greenliving"]
+  }
+]
