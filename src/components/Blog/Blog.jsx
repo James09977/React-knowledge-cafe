@@ -12,6 +12,7 @@ const Blog = ({ blog, handleBookMark, handleMarkAsRead }) => {
     posted_date,
     reading_time,
     hashtags,
+    id,
   } = blog;
   return (
     <div>
@@ -51,7 +52,7 @@ const Blog = ({ blog, handleBookMark, handleMarkAsRead }) => {
       ))}
       <br />
       <button
-        onClick={() => handleMarkAsRead(reading_time)}
+        onClick={() => handleMarkAsRead(reading_time, id)}
         className="my-5 text-xl text-purple-700 font-semibold"
       >
         Mark as read
